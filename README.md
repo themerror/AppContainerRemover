@@ -2,6 +2,8 @@
 
 This application can remove an AppContainer.
 
+You may use EnableLoopback to list ACs.
+
 ## What may happen if I removed an AppContainer
 
 * If you remove an AC which is created by you for test purpose, nothing unexpected may happen.
